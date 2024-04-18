@@ -342,6 +342,10 @@ a {
 }
 
 .student-1 span {
+    cursor: pointer;
+}
+
+.student-1 span {
     display: block;
     width: 33px;
     height: 33px;
