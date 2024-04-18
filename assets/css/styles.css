@@ -41,7 +41,7 @@ a {
 
 .btn:hover {
     opacity: 0.8;
-    animation: fade-bottom 1.2s ease-out;
+    animation: fade-bottom 1.5s ease-out;
 }
 @keyframes fade-bottom {
     0% {
@@ -412,6 +412,9 @@ a {
     justify-content: space-between;
 }
 
+.features-item {
+    flex: 1;
+}
 .features-subcri {
     margin-top: 26px;
     color: #0d1111;
